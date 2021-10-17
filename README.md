@@ -15,6 +15,8 @@ import {leoImage} from "leoimage";
 
 leoimage({
     shadowType : 'soft',
+    roundedCorners : 'soft',
+    circleImage : 'soft',
     padding : false;
 });
 
