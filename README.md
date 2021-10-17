@@ -28,3 +28,5 @@ leoImage Supports Two options,both of which are optional
 
 * *shadowType* - _hard | soft_ (Default to soft)
 * *padding* - _boolean_ (Defaults to False) 
+* *roundedCorners* - _hard | soft_ (Default to soft)
+* *circleImage* -_hard | soft_ (Default to soft)
